@@ -1,0 +1,5 @@
+python-antsibull-core (100:1.2.0-1) UNRELEASED; urgency=medium
+
+  * https://github.com/ansible-community/antsibull-core/releases/tag/1.2.0
+
+ -- Wong Hoi Sing Edison <hswong3i@gmail.com>  Sun, 21 Aug 2022 07:11:58 +0800
